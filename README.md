@@ -2,7 +2,9 @@
 </br>
 It is a website with login authentication and contact form whose data is stored in a cloud database. The theme of the website is a plant nursery named GARDEN HUT.
 </br>
+</br>
 Link to the Deployed website : https://xenon-akashkatiyar-garden-hut.herokuapp.com/
+</br>
 </br>
 Technologies used:
 1. Nodejs for creating backend which connects to mongodb create schemas and also handles get and post requests.
@@ -10,7 +12,8 @@ Technologies used:
 3. To create pages I have used html,css and bootstrap. 
 4. Saved html pages with ejs extension to render them using ejs engine for page routing.
 5. For database I have used mongodb and mongoose for database connection.
-
+</br>
+</br>
 Instruction to run this project locally: </br>
 1. Do not change the folder structure and keep the pages in views folder only becasue ejs engine search pages for routing in views folder.
 2. To run this project open the terminal and change directory to project folder and enter "node script.js" and hit enter.
