@@ -3,7 +3,7 @@
 Link to the Deployed website : https://xenon-akashkatiyar-garden-hut.herokuapp.com/
 
 
-#Screenshots: 
+# Screenshots: 
 
 Before Submit </br>
 ![Screenshot (539)](https://user-images.githubusercontent.com/43553695/175785801-f5bf43a6-76cb-4b28-9ba8-248fd085a5f1.png)
