@@ -4,8 +4,8 @@ It is a website with login authentication and contact form whose data is stored 
 </br>
 </br>
 Link to the Deployed website : https://xenon-akashkatiyar-garden-hut.herokuapp.com/
-</br>
-Correct Login Credentials:</br></br> Email: akash.11801431@gmail.com</br>
+</br></br>
+Correct Login Credentials:</br> Email: akash.11801431@gmail.com</br>
                             Password: placed</br>
 </br>
 Technologies used:
