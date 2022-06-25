@@ -36,6 +36,10 @@ app.get("/home", function (req, res) {
   res.render("index");
 });
 
+app.get("/loggedin", function (req, res) {
+  res.render("loggedin");
+});
+
 app.get("/contact", function (req, res) {
   res.render("contact");
 });
