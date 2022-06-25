@@ -5,13 +5,13 @@ It is a website with login authentication and contact form whose data is stored 
 </br>
 Link to the Deployed website : https://xenon-akashkatiyar-garden-hut.herokuapp.com/
 </br></br>
-Correct Login Credentials:</br> Email: akash.11801431@gmail.com</br>
+Correct Login Credentials:</br> Email: akash.11801431@lpu.in</br>
                             Password: placed</br>
 </br>
 Technologies used:
 </br>
 </br>
-1. Nodejs for creating backend which connects to mongodb create schemas and also handles get and post requests.</br>
+1. Nodejs for creating backend which connects to mongodb, create schemas and also handles get and post requests.</br>
 2. Expressjs to create server.</br>
 3. To create pages I have used html,css and bootstrap. </br>
 4. Saved html pages with ejs extension to render them using ejs engine for page routing.</br>
@@ -19,7 +19,7 @@ Technologies used:
 </br>
 </br>
 Instruction to run this project locally: </br></br>
-1. Do not change the folder structure and keep the pages in views folder only becasue ejs engine search pages for routing in views folder.</br>
+1. Do not change the folder structure and keep the pages in views folder only because ejs engine search pages for routing in views folder.</br>
 2. To run this project open the terminal and change directory to project folder and enter "node script.js" and hit enter.</br>
 3. The server will start running on localhost port: 4000</br>
 
